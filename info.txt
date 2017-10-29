@@ -1,2 +1,2 @@
-Dies ist nur ein kleiner Test - zweites Info text fenster geändert
+Dies ist nur ein kleiner Test - zweites Info text fenster geaenderte Version
 Bei dieser Erweiterung machen wir einen weiteren Versuch
