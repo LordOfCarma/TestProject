@@ -1,2 +1,2 @@
-Dies ist nur ein kleiner Test
+Dies ist nur ein kleiner Test - projekt 1
 Bei dieser Erweiterung machen wir einen weiteren Versuch
