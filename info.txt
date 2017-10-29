@@ -1,2 +1,3 @@
-Dies ist nur ein kleiner Test - zweites Info text fenster geaenderte Version
+Dies ist nur ein kleiner Test 
+nun in der feature variante in neuer Zeile
 Bei dieser Erweiterung machen wir einen weiteren Versuch
