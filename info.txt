@@ -1,3 +1,3 @@
-Dies ist nur ein kleiner Test 
+Dies ist nur ein kleiner Test - projekt 1
 nun in der feature variante in neuer Zeile
 Bei dieser Erweiterung machen wir einen weiteren Versuch
